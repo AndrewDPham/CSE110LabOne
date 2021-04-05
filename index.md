@@ -33,6 +33,6 @@ This is a nested list of some of my skills:
      - HTML/CSS/JavaScript
      
 Places I traveled to:
-- [x] South Korea
-- [x] Mexico
-- [ ] Japan
+- [x]  South Korea
+- [x]  Mexico
+- [ ]  Japan
